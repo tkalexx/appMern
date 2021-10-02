@@ -1,0 +1,9 @@
+1. What is JWT?
+2.  Express.
+    2.0 Router. get, post, .etc.
+    2.1 Middlewares in express
+3. HTTP protocol. (methods, response codes .etc)
+4. MongoDB.
+    4.1 Mongoose.
+    4.2 native driver
+5. Promise, async/await
